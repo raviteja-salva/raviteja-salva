@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kasi Raviteja Salva
+# 👋 Hi, I’m Kasi Raviteja Salva
 - 👀 I’m interested in MERN Stack Development
 - 🌱 I’m currently doing an internship at Aptitude Guru Hem company
 - 💞️ I’m looking to collaborate on Full-stack web applications (MERN Stack)
